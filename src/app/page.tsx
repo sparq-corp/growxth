@@ -52,7 +52,7 @@ export default function Home() {
                 <IoLogoInstagram size={25} color="black" />
               </Link>
               <Link
-                href="https://www.linkedin.com/company/growxth"
+                href="https://www.facebook.com/growxth1/"
                 target="_blank"
                 className="flex items-center justify-center ml-2"
               >
